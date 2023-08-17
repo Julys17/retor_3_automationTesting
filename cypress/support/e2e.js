@@ -1,4 +1,4 @@
-/// <reference types=“cypress” />
+/// <reference types="cypress" />
 
 // ***********************************************************
 // This example support/e2e.js is processed and
